@@ -14,6 +14,7 @@ public class HistorialConversiones {
         historial.add(conversion);
     }
 
+
     public List<Conversion> obtenerHistorial() {
         return historial;
     }
